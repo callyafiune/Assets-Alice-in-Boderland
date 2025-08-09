@@ -1,0 +1,27 @@
+🖼 [ASSETS]
+
+CARDS_2_OF_CLUBS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/2_of_clubs.png
+CARDS_2_OF_DIAMONDS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/2_of_diamonds.png
+CARDS_2_OF_HEARTS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/2_of_hearts.png
+CARDS_2_OF_SPADES = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/2_of_spades.png
+CARDS_3_OF_CLUBS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/3_of_clubs.png
+CARDS_3_OF_DIAMONDS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/3_of_diamonds.png
+CARDS_3_OF_HEARTS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/3_of_hearts.png
+CARDS_3_OF_SPADES = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/3_of_spades.png
+CARDS_4_OF_CLUBS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/4_of_clubs.png
+CARDS_4_OF_DIAMONDS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/4_of_diamonds.png
+CARDS_4_OF_HEARTS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/4_of_hearts.png
+CARDS_4_OF_SPADES = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/4_of_spades.png
+CARDS_5_OF_CLUBS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/5_of_clubs.png
+CARDS_5_OF_DIAMONDS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/5_of_diamonds.png
+CARDS_5_OF_HEARTS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/5_of_hearts.png
+CARDS_5_OF_SPADES = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/5_of_spades.png
+CARDS_6_OF_CLUBS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/6_of_clubs.png
+CARDS_6_OF_DIAMONDS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/6_of_diamonds.png
+CARDS_6_OF_HEARTS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/6_of_hearts.png
+CARDS_6_OF_SPADES = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/6_of_spades.png
+CARDS_7_OF_CLUBS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/7_of_clubs.png
+CARDS_7_OF_DIAMONDS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/7_of_diamonds.png
+CARDS_7_OF_HEARTS = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/7_of_hearts.png
+CARDS_7_OF_SPADES = https://raw.githubusercontent.com/callyafiune/Assets-Alice-in-Boderland/main/cards/7_of_spades.png
+... (continua com toda a lista que você forneceu)
